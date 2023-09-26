@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/10qwcrrHWOkJNdNJlzSFsU4pEtrJfSZT-
 """
 
-#DataFlair Guide for Binary Search
+#Guide for Binary Search
 #RECURSIVE FUNCTION CALL BASED APPROACH
 #Function to search element in list
 def binary_search(start,end,int_list,target):
@@ -55,7 +55,7 @@ if position == -1:
 else:
     print("Element found at position: "+ str(position))
 
-#DataFlair Guide for Binary Search
+#Guide for Binary Search
 #ITERATIVE APPROACH
 
 #Read length of list from user
